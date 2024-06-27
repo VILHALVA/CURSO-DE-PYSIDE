@@ -1,5 +1,3 @@
-Entendi! Vamos corrigir isso para PySide:
-
 # MANUAL
 ## INSTALAÇÃO DO PYSIDE:
 ### PASSO 1: INSTALAR PYTHON:
