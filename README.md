@@ -1,7 +1,7 @@
 # CURSO DE PYSIDE
 👨‍⚖️PYSIDE É UMA BIBLIOTECA QUE PERMITE O DESENVOLVIMENTO DE INTERFACES GRÁFICAS DE USUÁRIO (GUI) EM PYTHON. 
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="FOTO.jpg" align="center" width="400"> <br>
 
 ## AVISO:
 Este curso aborda o uso do `PySide2`, no entanto, recomendamos utilizar o `PySide6` por ser a versão mais recente e recomendada. Portanto, enquanto o arquivo `./CURSO COMPRETO/CODIGO/CODIGO.py` utiliza o `PySide2`, o `README.md` em `./CURSO COMPRETO` foi desenvolvido utilizando `PySide6`.
